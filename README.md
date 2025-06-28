@@ -19,7 +19,7 @@ E-commerce Web project using HTML, CSS, JavaScript, PHP and MySQL.
 
 ---
 
-*E-Commerce - SAAS*
+###E-Commerce - SAAS*
 
 MVP- Minimum Viable Product
 USP - Unique Selling Point
