@@ -25,8 +25,8 @@ MVP- Minimum Viable Product
 USP - Unique Selling Point
 
 Roles & Responsibilities
-
-'''SuperAdmin  
+```
+SuperAdmin  
     Develop & Maintain the Platform - MVP - Done
     Manage Users
     Onboaarding Vendor by verifying KYC
@@ -84,7 +84,7 @@ Buyer/Customer
     Place Order - Partial
         COD  - MVP
     Cancel Order
-    Track Order'''
+    Track Order```
     
 ---
 This project is made using the languages are PHP, HTML, CSS, JS and the MySQL local machine database.
