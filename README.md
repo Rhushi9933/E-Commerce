@@ -84,7 +84,8 @@ Buyer/Customer
     Place Order - Partial
         COD  - MVP
     Cancel Order
-    Track Order```
+    Track Order
+```
     
 ---
 This project is made using the languages are PHP, HTML, CSS, JS and the MySQL local machine database.
